@@ -1,0 +1,64 @@
+* {
+  font-family: "Roboto", sans-serif;
+  box-sizing: border-box;
+}
+.header {
+  height: 400px;
+  width: 1270px;
+
+  display: flex;
+  background-color: #ffcd9e;
+}
+.left-h h1 {
+  height: 108px;
+  width: 562px;
+  margin-left: 136px;
+  top: 83px;
+  font-family: Inter;
+  font-size: 36px;
+  font-weight: 700;
+  line-height: 54px;
+  letter-spacing: 0em;
+  text-align: left;
+}
+.left-h p {
+  line-height: 160%;
+  width: 562px;
+  font-weight: 500;
+  margin-left: 136px;
+  font-size: 20px;
+  font-family: "Inter";
+  color: #484848;
+}
+.left-h b {
+  font-weight: 700;
+  margin-left: 136px;
+}
+.inputbox {
+  margin: 20px;
+  margin-left: 136px;
+}
+.inputbox input {
+  padding: 10px;
+  width: 250px;
+  border: 3px solid black;
+  border-radius: 5px;
+}
+.inputbox button {
+  padding: 8px;
+  background-color: black;
+  color: white;
+  border: 3px solid black;
+  border-radius: 5px;
+}
+.left-h span {
+  font-size: 12px;
+  color: white;
+  margin-left: 150px;
+}
+.right-h img {
+  height: 400px;
+  width: 400px;
+  margin-left: 95px;
+  margin-top: 0px;
+}
